@@ -1,4 +1,4 @@
-# High-Level Design — Movie Ticket Booking System
+# High-Level Design — BookMyMovie
 
 > This document covers **what** we build and **why**. Table columns, SQL, class names and API payloads are in [LLD.md](LLD.md).
 > Constraints follow the reference design at [dev.to — Ticket Booking System (BookMyShow) HLD](https://dev.to/arghya_majumder/ticket-booking-system-bookmyshow-high-level-system-design-3one).

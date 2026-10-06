@@ -1,4 +1,4 @@
-# Low-Level Design — Movie Ticket Booking System
+# Low-Level Design — BookMyMovie
 
 > The **how**: packages, classes, schema, queries, transaction boundaries, API contracts and tests.
 > The **what and why** is in [HLD.md](HLD.md). Section numbers here don't match the HLD's.

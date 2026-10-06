@@ -12,9 +12,9 @@
     </parent>
 
     <groupId>com.moviebooking</groupId>
-    <artifactId>movie-ticket-booking-system</artifactId>
+    <artifactId>bookmymovie</artifactId>
     <version>1.0.0</version>
-    <name>Movie Ticket Booking System</name>
+    <name>BookMyMovie</name>
     <description>Seat-level movie ticket booking: holds, pricing, discounts, payments, refunds, outbox notifications</description>
 
     <developers>

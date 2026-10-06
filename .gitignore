@@ -6,6 +6,6 @@ target/
 .DS_Store
 
 # assignment brief (not published)
-Movie Ticket Booking System.pdf
+BookMyMovie.pdf
 __pycache__/
 *.pyc

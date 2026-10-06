@@ -4,7 +4,7 @@ Guidance for AI assistants working in this repository.
 
 ## Source of truth
 - `docs/HLD.md` (what and why), `docs/LLD.md` (how) and `docs/diagrams.html` (diagrams) are the spec; `README.md` summarises them. Read the relevant part before changing behaviour, and update them in the same change when behaviour changes.
-- `Movie Ticket Booking System.pdf` is the original brief (SDE-2 take-home).
+- `BookMyMovie.pdf` is the original brief (SDE-2 take-home).
 
 ## Build and run
 - JDK 21 (`export JAVA_HOME=$(/usr/libexec/java_home -v 21)` if Maven picks a newer JDK).

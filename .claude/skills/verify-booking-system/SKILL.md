@@ -1,6 +1,6 @@
 ---
 name: verify-booking-system
-description: Verify the movie ticket booking system end to end before calling a change done — runs the full test suite (unit + Testcontainers integration), starts a fresh Docker stack, runs the Postman customer-lifecycle collection against it with newman, and tears everything down. Use after any change to schema, booking/locking logic, events or APIs, and before submitting.
+description: Verify the BookMyMovie end to end before calling a change done — runs the full test suite (unit + Testcontainers integration), starts a fresh Docker stack, runs the Postman customer-lifecycle collection against it with newman, and tears everything down. Use after any change to schema, booking/locking logic, events or APIs, and before submitting.
 ---
 
 # Verify the booking system

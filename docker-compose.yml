@@ -8,7 +8,7 @@ name: moviebooking
 services:
   app:
     build: .
-    image: movie-ticket-booking-system:latest
+    image: bookmymovie:latest
     container_name: mtbs-app
     ports:
       - "8080:8080"

@@ -22,7 +22,7 @@ public class OpenApiConfig {
     public OpenAPI movieBookingOpenApi() {
         return new OpenAPI()
                 .info(new Info()
-                        .title("Movie Ticket Booking System")
+                        .title("BookMyMovie")
                         .version("1.0.0")
                         .description("""
                                 Seat-level booking: browse → lock seats (10 min) → pay (Idempotency-Key) → confirm / cancel.

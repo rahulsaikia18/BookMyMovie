@@ -263,7 +263,7 @@ def build():
     return {
         "info": {
             "_postman_id": str(uuid.uuid5(uuid.NAMESPACE_URL, "moviebooking-collection")),
-            "name": "Movie Ticket Booking System",
+            "name": "BookMyMovie",
             "description": (
                 "End-to-end run of the booking API (same flow as docs/test.md).\n\n"
                 "Every URL, ID, login and body is written out in full: no variables.\n\n"

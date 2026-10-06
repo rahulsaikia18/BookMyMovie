@@ -1,4 +1,4 @@
-# Movie Ticket Booking System
+# BookMyMovie
 
 A movie ticket booking backend for many cities, theaters, screens and shows, with **seat-level booking**. Seats are held
 for a limited time and released automatically, prices follow regular / premium / weekend tiers with discount codes,

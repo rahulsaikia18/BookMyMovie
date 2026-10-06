@@ -8,7 +8,7 @@ COPY pom.xml .
 RUN --mount=type=cache,target=/root/.m2 mvn -q -B dependency:go-offline
 COPY src ./src
 RUN --mount=type=cache,target=/root/.m2 mvn -q -B -Dmaven.test.skip=true package \
- && java -Djarmode=tools -jar target/movie-ticket-booking-system-1.0.0.jar extract --layers --launcher --destination target/extracted
+ && java -Djarmode=tools -jar target/bookmymovie-1.0.0.jar extract --layers --launcher --destination target/extracted
 
 # ---- runtime: JRE only, layered jar, non-root ----
 FROM eclipse-temurin:21-jre

@@ -1,4 +1,4 @@
-### Movie Ticket Booking System: runnable requests (IntelliJ HTTP Client / VS Code REST Client)
+### BookMyMovie: runnable requests (IntelliJ HTTP Client / VS Code REST Client)
 ### Seed accounts: admin@moviebooking.com / Admin@123 · demo@moviebooking.com / Customer@123
 @base = http://localhost:8080/api
 @date = 2026-10-01
